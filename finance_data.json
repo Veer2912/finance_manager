@@ -1,0 +1,19 @@
+{
+    "income_data": [
+        {
+            "source": "Job",
+            "amount": 10000.0,
+            "date": "2024-08-07T16:51:08.532756",
+            "currency": "INR"
+        },
+        {
+            "source": "Rent",
+            "amount": 8000.0,
+            "date": "2024-08-07T16:51:18.894241",
+            "currency": "INR"
+        }
+        
+    ],
+    "expense_data": [],
+    "currency": "INR"
+}
